@@ -1,0 +1,15 @@
+{
+  "name": "html-scrambler",
+  "version": "1.0.0",
+  "author": "Denes Pal <dsdenes@gmail.com>",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "js-obfuscator": "^0.1.1",
+    "request": "^2.81.0"
+  }
+}
